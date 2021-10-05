@@ -120,7 +120,7 @@
     :track: true
 :attributes:
   :rates:
-    :with_excessive_length_fees: false
+    :with_excessive_length_fees: true
 :events:
   :types:
     :arrived_at_terminal: ARV
